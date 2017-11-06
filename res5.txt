@@ -1,0 +1,4 @@
+input_file : output5.txt answer_file : real_out5.txt
+ got : 41 expected :41
+ got :  expected :0 4 2 3 1 0 
+result: WRONG

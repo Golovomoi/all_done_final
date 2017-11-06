@@ -1,0 +1,4 @@
+input_file : output1.txt answer_file : real_out1.txt
+ got : 41 expected :41
+ got : 0 4 2 3 1 0  expected :0 4 2 3 1 0 
+result: OK
